@@ -1,2 +1,2 @@
 # Python-Addicts
-This repo is done to show ssome python codes, and the aproaah to solutions.
+This repo is done to show some python codes, and the aproaches to the solutions.
